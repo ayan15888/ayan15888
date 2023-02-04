@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ayan15888
 - 👀 I’m interested in app development
 - 🌱 I’m currently learning android development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 
 
 <!---
 ayan15888/ayan15888 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
