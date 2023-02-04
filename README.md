@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayan15888
-- 👀 I’m interested in designing website
-- 🌱 I’m currently learning web development
+- 👀 I’m interested in app development
+- 🌱 I’m currently learning android development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
