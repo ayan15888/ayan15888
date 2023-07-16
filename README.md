@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ayan15888
-- 👀 I’m interested in app development
-- 🌱 I’m currently learning android development
+- 🌱 I’m currently learning Web application pentesting
 - 
 
 <!---
