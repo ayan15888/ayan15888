@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ayan15888
 - 🌱 I’m currently learning Web application pentesting
+- 🐍 I'm also learning python 
 - 
 
 <!---
