@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayan15888
-- 🌱 I’m currently learning Web application pentesting
-- 🐍 I'm also learning python 
+- 🌱 I’m currently learning Web development 
+-  I'm also learning javascript with react,next js with frameworks like tailwind CSS and library such as react js
 - 
 
 <!---
