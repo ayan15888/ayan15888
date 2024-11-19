@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayan15888&label=Profile%20views&color=0e75b6&style=flat" alt="ayan15888" /> </p>
 
-- 🌱 I’m currently learning **React Native, MongoDB, Firebase, Redux**
+- 🌱 I’m currently learning **React Native, MongoDB, Firebase, React Js**
 
 - 📫 How to reach me **ayanqurashi88@gmail.com**
 
