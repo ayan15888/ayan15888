@@ -25,6 +25,13 @@
 <br>
 <br>
 
+<h3><code>ayan@github ~ $ ./skills.sh</code></h3>
+
+<img src="./skills.svg" width="860" alt="Ayan's Core Tech Stack & Skills" />
+
+<br>
+<br>
+
 <h3><code>ayan@github ~ $ ./links.sh</code></h3>
 
 <p><b>Full-Stack Developer & DevOps Enthusiast · India 🇮🇳</b></p>
