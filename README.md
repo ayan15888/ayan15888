@@ -3,38 +3,36 @@
 <!-- animated contribution graph: real data, boxes reveal cell by cell
      (regenerated daily by .github/workflows/update-profile-art.yml) -->
 
-<h3><code>avi@github ~ $ ./contributions.sh</code></h3>
+<h3><code>ayan@github ~ $ ./contributions.sh</code></h3>
 
-<img src="./contrib-heatmap.svg" width="860" alt="Avi's GitHub contribution graph — auto-refreshed daily" />
+<img src="./contrib-heatmap.svg" width="860" alt="Ayan's GitHub contribution graph — auto-refreshed daily" />
 
 <br>
 <br>
 
 <!-- ascii portrait (left) + streak/numbers card (right). both svgs are
-     840x880 so equal widths give equal heights.
-     portrait: python scripts/prep_photo.py <dp.png> && python scripts/make_ascii_svg.py
-     stats:    python scripts/render_stats_svg.py (same daily workflow) -->
+     840x880 so equal widths give equal heights. -->
 
-<h3><code>avi@github ~ $ whoami</code></h3>
+<h3><code>ayan@github ~ $ whoami</code></h3>
 
 <table>
 <tr>
-<td valign="top"><img src="./avi-ascii.svg" width="420" alt="Avi Vashishta — ASCII portrait" /></td>
-<td valign="top"><img src="./stats.svg" width="420" alt="Avi's GitHub streak and contribution stats — auto-refreshed daily" /></td>
+<td valign="top"><img src="./ayan-ascii.svg" width="420" alt="Ayan — ASCII portrait" /></td>
+<td valign="top"><img src="./stats.svg" width="420" alt="Ayan's GitHub streak and contribution stats — auto-refreshed daily" /></td>
 </tr>
 </table>
 
 <br>
 <br>
 
-<h3><code>avi@github ~ $ ./links.sh</code></h3>
+<h3><code>ayan@github ~ $ ./links.sh</code></h3>
 
-<p><b>Fullstack Developer · AI Builder · Instructor</b></p>
+<p><b>Full-Stack Developer & DevOps Enthusiast · India 🇮🇳</b></p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-avivashishta.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://www.avivashishta.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-avivashishta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avivashishta)
-[![Instagram](https://img.shields.io/badge/Instagram-avi__vashishta29-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/avi_vashishta29)
-[![Live Terminal](https://img.shields.io/badge/⚡_Live_Terminal-avivashishta29.github.io-22d3ee?style=for-the-badge&logo=gnometerminal&logoColor=black)](https://avivashishta29.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ayan--qurashi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-ayan-qurashi-3a426a24b/)
+[![X](https://img.shields.io/badge/X-Ayanode-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Ayanode)
+[![LeetCode](https://img.shields.io/badge/LeetCode-ayanqurashi10-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ayanqurashi10/)
+[![Gmail](https://img.shields.io/badge/Gmail-ayanqurashi10-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayanqurashi10@gmail.com)
 
 <br>
 
